@@ -1,2 +1,2 @@
-# C-Charp
-C# Passo a passo
+# Curso completo de C#
+Curso prático com explicação
