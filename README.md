@@ -1,3 +1,3 @@
-# Curso completo de C#
+# Curso completo de C# com projetos.
 Curso prático 
 
