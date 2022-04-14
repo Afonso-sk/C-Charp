@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\sintaxe\bin\Debug\sintaxe.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\sintaxe\bin\Debug\sintaxe.exe
+C:\C-SharpSK\C-Charp\sintaxe\sintaxe\bin\Debug\sintaxe.pdb
+C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.exe
+C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.pdb
