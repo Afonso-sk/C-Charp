@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\variaveis\bin\Debug\variaveis.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\variaveis\bin\Debug\variaveis.exe
+C:\C-SharpSK\C-Charp\sintaxe\variaveis\bin\Debug\variaveis.pdb
+C:\C-SharpSK\C-Charp\sintaxe\variaveis\obj\Debug\2-variaveis.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\variaveis\obj\Debug\2-variaveis.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\variaveis\obj\Debug\2-variaveis.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\variaveis\obj\Debug\variaveis.exe
+C:\C-SharpSK\C-Charp\sintaxe\variaveis\obj\Debug\variaveis.pdb

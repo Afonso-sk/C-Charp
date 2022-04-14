@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-sintaxe", "sintaxe\1-sint
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-variaveis", "variaveis\2-variaveis.csproj", "{231B086B-FC52-4653-BD6B-2DBDE66203E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-entarada_usuario", "entarada_usuario\3-entarada_usuario.csproj", "{5093B590-108D-4773-BE19-4B1B41B93757}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{231B086B-FC52-4653-BD6B-2DBDE66203E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{231B086B-FC52-4653-BD6B-2DBDE66203E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{231B086B-FC52-4653-BD6B-2DBDE66203E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5093B590-108D-4773-BE19-4B1B41B93757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5093B590-108D-4773-BE19-4B1B41B93757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5093B590-108D-4773-BE19-4B1B41B93757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5093B590-108D-4773-BE19-4B1B41B93757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
