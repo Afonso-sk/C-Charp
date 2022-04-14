@@ -14,6 +14,12 @@ namespace variaveis
     {
         static void Main(string[] args)
         {
+            //Para declarar uma variavel, devemos especificar o Tipo e atribuir um valor.
+            /* SINTAXE: type variableName = value ( tipo nomeVariavel = valor)
+             * Onde type é um tipo C# (como int string), e variableName é o nome da variável (como x ou name ).
+
+            O sinal de igual é usado para atribuir valores à variável.
+             */
             string name = "Sako"; // Declarei uma variavel do tipo nome, e atribui um valor chamado sako
             int myNum = 15; // no entanto podemos adicionar a palavra const para que a variavel não seja alterada.
              Console.WriteLine(myNum);
@@ -38,15 +44,6 @@ namespace variaveis
              4- string- Armazena texto como "Hello world", e são cercados de aspas duplas
              5- bool- Armazena valores com dois estados: Verdadeiro ou falso ( true or false)
             
-            Para declarar uma variavel, devemos especificar o Tipo e atribuir um valor.
-            
-            SINTAXE: type variableName = value ( tipo nomeVariavel = valor)
-
-            
-            Para declarar uma variavel, ddevemos especificar o tipo e atribuir um valor.
-            Onde type é um tipo C# (como intou string), e variableName é o nome da variável (como x ou name ).
-
-            O sinal de igual é usado para atribuir valores à variável.
              */
             
 
