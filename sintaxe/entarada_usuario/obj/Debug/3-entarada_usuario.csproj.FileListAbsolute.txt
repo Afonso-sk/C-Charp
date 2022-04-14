@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\bin\Debug\entarada_usuario.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\bin\Debug\entarada_usuario.exe
+C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\bin\Debug\entarada_usuario.pdb
+C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\3-entarada_usuario.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\3-entarada_usuario.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\3-entarada_usuario.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\entarada_usuario.exe
+C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\entarada_usuario.pdb
