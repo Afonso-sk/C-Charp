@@ -11,6 +11,7 @@ namespace entarada_usuario
         static void Main(string[] args)
         {
             Console.WriteLine("Entrada de usiario");
+            Console.WriteLine("Sou estagiario");
             Console.ReadKey();
         }
     }
