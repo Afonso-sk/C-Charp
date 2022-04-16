@@ -1,0 +1,7 @@
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\variaveis_\bin\Debug\variaveis_.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\variaveis_\bin\Debug\variaveis_.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\variaveis_\bin\Debug\variaveis_.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\variaveis_\obj\Debug\2.2-variaveis.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\variaveis_\obj\Debug\2.2-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\variaveis_\obj\Debug\variaveis_.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\variaveis_\obj\Debug\variaveis_.pdb

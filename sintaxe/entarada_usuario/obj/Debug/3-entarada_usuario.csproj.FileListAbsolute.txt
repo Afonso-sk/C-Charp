@@ -6,3 +6,10 @@ C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\3-entarada_usuario.cspro
 C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\3-entarada_usuario.csproj.CoreCompileInputs.cache
 C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\entarada_usuario.exe
 C:\C-SharpSK\C-Charp\sintaxe\entarada_usuario\obj\Debug\entarada_usuario.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\entarada_usuario\bin\Debug\entarada_usuario.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\entarada_usuario\bin\Debug\entarada_usuario.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\entarada_usuario\bin\Debug\entarada_usuario.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\entarada_usuario\obj\Debug\3-entarada_usuario.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\entarada_usuario\obj\Debug\3-entarada_usuario.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\entarada_usuario\obj\Debug\entarada_usuario.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\entarada_usuario\obj\Debug\entarada_usuario.pdb

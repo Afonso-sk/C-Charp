@@ -6,3 +6,10 @@ C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\1-sintaxe.csproj.SuggestedBinding
 C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\1-sintaxe.csproj.CoreCompileInputs.cache
 C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.exe
 C:\C-SharpSK\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\sintaxe\bin\Debug\sintaxe.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\sintaxe\bin\Debug\sintaxe.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\sintaxe\bin\Debug\sintaxe.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\sintaxe\obj\Debug\1-sintaxe.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\sintaxe\obj\Debug\1-sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\sintaxe\obj\Debug\sintaxe.pdb

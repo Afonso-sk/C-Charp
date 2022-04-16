@@ -14,10 +14,10 @@ namespace sintaxe // namespace: é usada para organoizar o nosso código.
         static void Main(string[] args)
         {
             /*Console.writeLne(), é o método que serve para imprimir o texto na tela,mas se não colocarmos 
-             Console.ReadLine o texto que imprime na tela some muito Rápido.*/
+             Console.ReadKey() o texto que imprime na tela some muito Rápido.*/
             Console.WriteLine("Olá, chamo-me Sako Afonso Miezi Vuna ! ");
             Console.WriteLine("3 + 3");
-            Console.ReadLine();
+            Console.ReadKey();
             
            
         }
