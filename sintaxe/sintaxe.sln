@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1-estrutura_decisao", "es
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2-estrutura_decisao_switch", "estrutura_decisao_switch\4.2-estrutura_decisao_switch.csproj", "{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-instrucaoes", "instrucaoes\5-instrucaoes.csproj", "{5ABEC01D-69FF-4BEF-A600-D5B6890C208B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABEC01D-69FF-4BEF-A600-D5B6890C208B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABEC01D-69FF-4BEF-A600-D5B6890C208B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABEC01D-69FF-4BEF-A600-D5B6890C208B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABEC01D-69FF-4BEF-A600-D5B6890C208B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
