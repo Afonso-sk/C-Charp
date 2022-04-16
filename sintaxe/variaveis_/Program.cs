@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Variavéis
+
 /*
  Escreva um programa no qual aceite os detalhes do usuário como nome, cidade, idade e número do PIN.
 Em seguida, armazene todos os valores na variável apropriada e imprima todas as informações no formato 

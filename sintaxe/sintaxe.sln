@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2-variaveis", "variaveis_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 -operadores", "operadores\3 -operadores.csproj", "{227788C3-14F2-4E9B-96B4-0E95017E366E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1-estrutura_decisao", "estrutura_decisao\4.1-estrutura_decisao.csproj", "{4EA92A27-4391-4D1B-8E8D-AB8E26F89389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2-estrutura_decisao_switch", "estrutura_decisao_switch\4.2-estrutura_decisao_switch.csproj", "{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{227788C3-14F2-4E9B-96B4-0E95017E366E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{227788C3-14F2-4E9B-96B4-0E95017E366E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{227788C3-14F2-4E9B-96B4-0E95017E366E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA92A27-4391-4D1B-8E8D-AB8E26F89389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA92A27-4391-4D1B-8E8D-AB8E26F89389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA92A27-4391-4D1B-8E8D-AB8E26F89389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA92A27-4391-4D1B-8E8D-AB8E26F89389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD2C94A-C73F-44DE-B62A-D0EB87D3AE74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
