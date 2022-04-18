@@ -4,3 +4,11 @@ C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\bi
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\4.3-obj_Random-est-cond.csproj.CoreCompileInputs.cache
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\obj_Random-est-cond.exe
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\obj_Random-est-cond.pdb
+C:\C-SharpSK\C-Charp\sintaxe\obj_Random-est-cond\bin\Debug\obj_Random-est-cond.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\obj_Random-est-cond\bin\Debug\obj_Random-est-cond.exe
+C:\C-SharpSK\C-Charp\sintaxe\obj_Random-est-cond\bin\Debug\obj_Random-est-cond.pdb
+C:\C-SharpSK\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\4.3-obj_Random-est-cond.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\4.3-obj_Random-est-cond.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\4.3-obj_Random-est-cond.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\obj_Random-est-cond.exe
+C:\C-SharpSK\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\obj_Random-est-cond.pdb

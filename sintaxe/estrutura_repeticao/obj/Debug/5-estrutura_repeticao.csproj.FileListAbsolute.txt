@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_repeticao\bin\Debug\estrutura_repeticao.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_repeticao\bin\Debug\estrutura_repeticao.exe
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_repeticao\bin\Debug\estrutura_repeticao.pdb
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_repeticao\obj\Debug\5-estrutura_repeticao.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_repeticao\obj\Debug\5-estrutura_repeticao.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_repeticao\obj\Debug\5-estrutura_repeticao.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_repeticao\obj\Debug\estrutura_repeticao.exe
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_repeticao\obj\Debug\estrutura_repeticao.pdb

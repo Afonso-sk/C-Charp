@@ -18,7 +18,7 @@ namespace obj_Random_est_cond
             // == comparação - isso serve para fazer comparação
             // = atribuição
 
-            if(numero_gerado % 2 == 0) // estou a comparar se o resto do numero gerado / 2 vai ser 0? se for
+            if(numero_gerado % 2 == 0) // estou a comparar se o resto da divisão do numero gerado / 2 vai ser 0? se for
             {
                 Console.WriteLine("O número é par");
             }
