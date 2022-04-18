@@ -1,3 +1,8 @@
 # Curso completo de C# com projetos.
-Curso prático 
+
+1- Sintaxe
+2- Variavéis
+3- Operadores 
+4-Estrutura de decisão
+5-Estruura de repetição
 
