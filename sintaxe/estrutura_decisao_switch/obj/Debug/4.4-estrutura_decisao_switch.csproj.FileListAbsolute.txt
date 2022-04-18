@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_decisao_switch\bin\Debug\estrutura_decisao_switch.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_decisao_switch\bin\Debug\estrutura_decisao_switch.exe
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_decisao_switch\bin\Debug\estrutura_decisao_switch.pdb
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_decisao_switch\obj\Debug\4.4-estrutura_decisao_switch.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_decisao_switch\obj\Debug\4.4-estrutura_decisao_switch.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_decisao_switch\obj\Debug\4.4-estrutura_decisao_switch.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_decisao_switch\obj\Debug\estrutura_decisao_switch.exe
+C:\C-SharpSK\C-Charp\sintaxe\estrutura_decisao_switch\obj\Debug\estrutura_decisao_switch.pdb
