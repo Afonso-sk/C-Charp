@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //switch : instrução para selecionar um dos muitos blocos de código a serem executados.
+/*break: Sai do bloco switch(interromperá a execução e teste de case dentro do bloco)
+ Quando uma correspondência é encontrada e o trabalho está concluído, é hora de uma pausa. Não há necessidade de mais
+testes.
+ */
+//A default palavra-chave é opcional e especifica algum código a ser executado se não houver correspondência entre maiúsculas e minúsculas:
 
 namespace estrutura_decisao_switch
 {
@@ -41,9 +46,39 @@ namespace estrutura_decisao_switch
                     Console.WriteLine("Domingo");
                     break;
                 default:
-                    Console.WriteLine("Opção inválida, por favor, tente novamente \n");
+                    Console.WriteLine("Opção inválida, por favor, tente novamente \n\n");
                     goto label;
             }
+            // Segundo exemplo:
+
+            Console.WriteLine("=== Segundo Exemplo ====");
+
+            int days = 4;
+            switch (days)
+            {
+                case 1:
+                    Console.WriteLine("Monday\n");
+                    break;
+                case 2:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 3:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 4:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 5:
+                    Console.WriteLine("Friday");
+                    break;
+                case 6:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 7:
+                    Console.WriteLine("Sunday");
+                    break;
+            }
+
             Console.ReadKey();
         }
 

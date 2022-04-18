@@ -1,0 +1,7 @@
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\object_Rondom\bin\Debug\object_Rondom.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\object_Rondom\bin\Debug\object_Rondom.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\object_Rondom\bin\Debug\object_Rondom.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\object_Rondom\obj\Debug\2.3-object_Random.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\object_Rondom\obj\Debug\2.3-object_Random.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\object_Rondom\obj\Debug\object_Rondom.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\object_Rondom\obj\Debug\object_Rondom.pdb

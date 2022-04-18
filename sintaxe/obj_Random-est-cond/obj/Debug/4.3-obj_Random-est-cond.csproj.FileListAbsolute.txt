@@ -1,0 +1,6 @@
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\bin\Debug\obj_Random-est-cond.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\bin\Debug\obj_Random-est-cond.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\bin\Debug\obj_Random-est-cond.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\4.3-obj_Random-est-cond.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\obj_Random-est-cond.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\obj_Random-est-cond\obj\Debug\obj_Random-est-cond.pdb
