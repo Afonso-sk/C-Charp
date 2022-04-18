@@ -1,8 +1,8 @@
 # Curso completo de C# com projetos.
 
-1- Sintaxe
-2- Variavéis
-3- Operadores 
-4-Estrutura de decisão
-5-Estruura de repetição
+<p>1- Sintaxe</p>
+<p>2- Variavéis</p>
+<p>3- Operadores</p> 
+<p>4-Estrutura de decisão</p>
+<p>5-Estruura de repetição</p>
 
