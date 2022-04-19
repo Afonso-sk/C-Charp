@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace estrutura_repeticao
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             int num = 1;
@@ -20,7 +20,7 @@ namespace estrutura_repeticao
                 Console.WriteLine("Olá Sako Afoonso");
 
                 //Incremento de uma unidade, para não entrar no loop infinito
-                num++;
+                num++; //também poderia ser: num = num+1
             }
                 Console.ReadKey();
         }
