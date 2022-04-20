@@ -15,14 +15,15 @@ namespace estrutura_repeticao
 
             Console.WriteLine("Qauntas vezes queres escrever a frase ?");
             num_vezes = Convert.ToInt32(Console.ReadLine());
-            while (num <= num_vezes)/*Enquanto 1 for número digitado for menor que número de vezes*/
+            while (num <= num_vezes)/*Enquanto 1 for menor do que o número de vezes digitado pelo usauario, vai continuar a rodar, 
+                                     */
             {
-                Console.WriteLine("Olá Sako Afoonso");
+                Console.WriteLine("Olá Sako Afonso");   
 
-                //Incremento de uma unidade, para não entrar no loop infinito
-                num++; //também poderia ser: num = num+1
-            }
-                Console.ReadKey();
+                //Incrementa mais uma unidade para não entrar no loop infinito. 
+                num++; //também poderia ser: num = num+1;
+            }   
+                Console.ReadKey();                              
         }
     }
 }

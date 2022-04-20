@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32106.194
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-sintaxe", "sintaxe\1-sintaxe.csproj", "{BDE7CE46-6EF2-404F-A910-30187C266A08}"
 EndProject
@@ -21,7 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2-objet_Random_estrutura_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3-obj_Random-est-cond", "obj_Random-est-cond\4.3-obj_Random-est-cond.csproj", "{79119296-85D0-446A-9A73-20AF985F0AF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-estrutura_repeticao", "estrutura_repeticao\5-estrutura_repeticao.csproj", "{7EB73741-9DBA-4591-BFB4-1E59B01C0613}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.0-estrutura_repeticao", "estrutura_repeticao\5.0-estrutura_repeticao.csproj", "{7EB73741-9DBA-4591-BFB4-1E59B01C0613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1-estrutura_repeticao", "estrutura_repeticao_\5.1-estrutura_repeticao.csproj", "{8347E347-C03E-49A4-92E8-3349BABE2FD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{7EB73741-9DBA-4591-BFB4-1E59B01C0613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB73741-9DBA-4591-BFB4-1E59B01C0613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB73741-9DBA-4591-BFB4-1E59B01C0613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8347E347-C03E-49A4-92E8-3349BABE2FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8347E347-C03E-49A4-92E8-3349BABE2FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8347E347-C03E-49A4-92E8-3349BABE2FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8347E347-C03E-49A4-92E8-3349BABE2FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
