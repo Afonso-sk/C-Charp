@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\notaformando\bin\Debug\notaformando.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\notaformando\bin\Debug\notaformando.exe
+C:\C-SharpSK\C-Charp\sintaxe\notaformando\bin\Debug\notaformando.pdb
+C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\5.6- notaformando.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\5.6- notaformando.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\5.6- notaformando.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\notaformando.exe
+C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\notaformando.pdb

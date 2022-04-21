@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3-jogo_advinha numero_est
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.4-jogo_advinhar_2_estrrepet", "jogo_advinhar_2_estrrepet\5.4-jogo_advinhar_2_estrrepet.csproj", "{26309833-4247-4333-AACB-68BC30B96CF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.5-chaveeuromilgoes_estr. repetcao", "chaveeuromilgoes\5.5-chaveeuromilgoes_estr. repetcao.csproj", "{3DF3CD18-25A8-4675-BC83-7C929C610417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.6- notaformando", "notaformando\5.6- notaformando.csproj", "{C385B98C-D178-44A9-98AF-86F14CEAF5C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{26309833-4247-4333-AACB-68BC30B96CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26309833-4247-4333-AACB-68BC30B96CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26309833-4247-4333-AACB-68BC30B96CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF3CD18-25A8-4675-BC83-7C929C610417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF3CD18-25A8-4675-BC83-7C929C610417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF3CD18-25A8-4675-BC83-7C929C610417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF3CD18-25A8-4675-BC83-7C929C610417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C385B98C-D178-44A9-98AF-86F14CEAF5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C385B98C-D178-44A9-98AF-86F14CEAF5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C385B98C-D178-44A9-98AF-86F14CEAF5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C385B98C-D178-44A9-98AF-86F14CEAF5C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

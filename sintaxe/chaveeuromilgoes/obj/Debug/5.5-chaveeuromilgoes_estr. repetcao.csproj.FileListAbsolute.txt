@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\5.5-chaveeuromilgoes_estr. repetcao.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\5.5-chaveeuromilgoes_estr. repetcao.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\5.5-chaveeuromilgoes_estr. repetcao.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\bin\Debug\chaveeuromilgoes.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\bin\Debug\chaveeuromilgoes.exe
+C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\bin\Debug\chaveeuromilgoes.pdb
+C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\chaveeuromilgoes.exe
+C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\chaveeuromilgoes.pdb
