@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinhar_2_estrrepet\bin\Debug\jogo_advinhar_2_estrrepet.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinhar_2_estrrepet\bin\Debug\jogo_advinhar_2_estrrepet.exe
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinhar_2_estrrepet\bin\Debug\jogo_advinhar_2_estrrepet.pdb
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinhar_2_estrrepet\obj\Debug\5.4-jogo_advinhar_2_estrrepet.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinhar_2_estrrepet\obj\Debug\5.4-jogo_advinhar_2_estrrepet.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinhar_2_estrrepet\obj\Debug\5.4-jogo_advinhar_2_estrrepet.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinhar_2_estrrepet\obj\Debug\jogo_advinhar_2_estrrepet.exe
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinhar_2_estrrepet\obj\Debug\jogo_advinhar_2_estrrepet.pdb

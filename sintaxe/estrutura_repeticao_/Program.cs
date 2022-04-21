@@ -25,7 +25,7 @@ namespace estrutura_repeticao_
                  Console.WriteLine($"{nums_a_gerar} -  {num_aleatorio}");
                 nums_a_gerar--; //ou num_a_gerar = num_a_gerar-1|| decremento um número para não entrar  ko lop infinito
             }
-            Console.ReadKey();
+            Console.ReadKey();  
         }
     }
 } 

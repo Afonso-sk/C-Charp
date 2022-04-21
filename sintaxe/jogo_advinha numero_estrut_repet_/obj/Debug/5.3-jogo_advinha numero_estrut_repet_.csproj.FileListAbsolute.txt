@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinha numero_estrut_repet_\bin\Debug\jogo_advinha numero_estrut_repet_.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinha numero_estrut_repet_\bin\Debug\jogo_advinha numero_estrut_repet_.exe
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinha numero_estrut_repet_\bin\Debug\jogo_advinha numero_estrut_repet_.pdb
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinha numero_estrut_repet_\obj\Debug\5.3-jogo_advinha numero_estrut_repet_.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinha numero_estrut_repet_\obj\Debug\5.3-jogo_advinha numero_estrut_repet_.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinha numero_estrut_repet_\obj\Debug\5.3-jogo_advinha numero_estrut_repet_.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinha numero_estrut_repet_\obj\Debug\jogo_advinha numero_estrut_repet_.exe
+C:\C-SharpSK\C-Charp\sintaxe\jogo_advinha numero_estrut_repet_\obj\Debug\jogo_advinha numero_estrut_repet_.pdb
