@@ -18,7 +18,7 @@ namespace notaformando
 
             Console.WriteLine("Queres inserir as notas de quantos formandos? ");  
             num_formando = Convert.ToInt32(Console.ReadLine());
-            num_formando_exato = num_formando; // igualei o num_formando_exado a num_formando para divisão dar um valor correto
+            num_formando_exato = num_formando; // igualei o num_formando_exado a num_formando para divisão dar um valor correto, sem isso, o valor da divisão dava 8.
 
             while (num_formando > 0)
             {
