@@ -6,3 +6,10 @@ C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\5.6- notaformando.csproj.Sug
 C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\5.6- notaformando.csproj.CoreCompileInputs.cache
 C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\notaformando.exe
 C:\C-SharpSK\C-Charp\sintaxe\notaformando\obj\Debug\notaformando.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\notaformando\obj\Debug\5.6- notaformando.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\notaformando\obj\Debug\5.6- notaformando.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\notaformando\obj\Debug\notaformando.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\notaformando\obj\Debug\notaformando.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\notaformando\bin\Debug\notaformando.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\notaformando\bin\Debug\notaformando.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\notaformando\bin\Debug\notaformando.pdb

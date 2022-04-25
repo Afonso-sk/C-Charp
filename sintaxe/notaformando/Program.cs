@@ -15,6 +15,8 @@ namespace notaformando
             int num_formando, num_formando_exato; // acrescentei o num_formando_exato porque não estava a dar valor exato ao dividir o total.
             double nota_formando;
             double total = 0;
+            double nota_maior = 0;
+            double nota_menor = 20;
 
             Console.WriteLine("Queres inserir as notas de quantos formandos? ");  
             num_formando = Convert.ToInt32(Console.ReadLine());
@@ -30,9 +32,23 @@ namespace notaformando
 
                 num_formando--;
 
+                if(nota_formando > nota_maior)
+                {
+                    nota_maior = nota_formando;
+                }
+
+                if (nota_formando < nota_menor)
+                {
+                    nota_menor = nota_formando;
+                }
+
             }
-            Console.WriteLine($" o total é {total}\n");
-            Console.WriteLine($"{total/num_formando_exato}");                     
+
+            Console.WriteLine($"A soma das notas é {total}");
+            //Coloquei Math.Round para fazer arendonamento
+            Console.WriteLine($" A média das notas  é : { Math.Round(total/num_formando_exato, 2)}");
+            Console.WriteLine($"A nota mais alta é {nota_maior}");
+            Console.WriteLine($"A nota mais baixa é {nota_menor}");
             Console.ReadKey();
         }                           
     }
