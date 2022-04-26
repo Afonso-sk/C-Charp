@@ -1,0 +1,7 @@
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\obj\Debug\6.0-exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\obj\Debug\exercicio1.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\obj\Debug\6.0-exercicio1.csproj.AssemblyReference.cache

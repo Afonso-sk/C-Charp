@@ -1,0 +1,7 @@
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\bin\Debug\estrut_rep_dowhile.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\bin\Debug\estrut_rep_dowhile.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\bin\Debug\estrut_rep_dowhile.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\5.8-estrut_rep_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\estrut_rep_dowhile.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\estrut_rep_dowhile.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\5.8-estrut_rep_dowhile.csproj.AssemblyReference.cache

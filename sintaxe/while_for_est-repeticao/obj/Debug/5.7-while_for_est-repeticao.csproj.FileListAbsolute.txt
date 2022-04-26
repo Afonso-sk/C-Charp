@@ -1,0 +1,7 @@
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\while_for_est-repeticao\bin\Debug\while_for_est-repeticao.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\while_for_est-repeticao\bin\Debug\while_for_est-repeticao.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\while_for_est-repeticao\bin\Debug\while_for_est-repeticao.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\while_for_est-repeticao\obj\Debug\5.7-while_for_est-repeticao.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\while_for_est-repeticao\obj\Debug\5.7-while_for_est-repeticao.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\while_for_est-repeticao\obj\Debug\while_for_est-repeticao.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\while_for_est-repeticao\obj\Debug\while_for_est-repeticao.pdb
