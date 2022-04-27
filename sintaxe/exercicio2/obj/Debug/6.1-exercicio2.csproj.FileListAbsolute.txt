@@ -5,3 +5,11 @@ C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio2\bin\Debug\e
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio2\obj\Debug\exercicio2.exe
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio2\obj\Debug\exercicio2.pdb
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio2\obj\Debug\6.1-exercicio2.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\exercicio2\bin\Debug\exercicio2.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\exercicio2\bin\Debug\exercicio2.exe
+C:\C-SharpSK\C-Charp\sintaxe\exercicio2\bin\Debug\exercicio2.pdb
+C:\C-SharpSK\C-Charp\sintaxe\exercicio2\obj\Debug\6.1-exercicio2.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\exercicio2\obj\Debug\6.1-exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\exercicio2\obj\Debug\6.1-exercicio2.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\exercicio2\obj\Debug\exercicio2.exe
+C:\C-SharpSK\C-Charp\sintaxe\exercicio2\obj\Debug\exercicio2.pdb

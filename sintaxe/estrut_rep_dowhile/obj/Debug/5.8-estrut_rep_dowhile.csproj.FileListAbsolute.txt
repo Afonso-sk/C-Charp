@@ -5,3 +5,11 @@ C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\obj
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\estrut_rep_dowhile.exe
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\estrut_rep_dowhile.pdb
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\5.8-estrut_rep_dowhile.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrut_rep_dowhile\bin\Debug\estrut_rep_dowhile.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\estrut_rep_dowhile\bin\Debug\estrut_rep_dowhile.exe
+C:\C-SharpSK\C-Charp\sintaxe\estrut_rep_dowhile\bin\Debug\estrut_rep_dowhile.pdb
+C:\C-SharpSK\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\5.8-estrut_rep_dowhile.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\5.8-estrut_rep_dowhile.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\5.8-estrut_rep_dowhile.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\estrut_rep_dowhile.exe
+C:\C-SharpSK\C-Charp\sintaxe\estrut_rep_dowhile\obj\Debug\estrut_rep_dowhile.pdb

@@ -5,3 +5,11 @@ C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\obj\Debug\6
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\obj\Debug\exercicio1.exe
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\obj\Debug\exercicio1.pdb
 C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\exercicio1\obj\Debug\6.0-exercicio1.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\exercicio1\bin\Debug\exercicio1.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\exercicio1\bin\Debug\exercicio1.exe
+C:\C-SharpSK\C-Charp\sintaxe\exercicio1\bin\Debug\exercicio1.pdb
+C:\C-SharpSK\C-Charp\sintaxe\exercicio1\obj\Debug\6.0-exercicio1.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\exercicio1\obj\Debug\6.0-exercicio1.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\exercicio1\obj\Debug\6.0-exercicio1.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\exercicio1\obj\Debug\exercicio1.exe
+C:\C-SharpSK\C-Charp\sintaxe\exercicio1\obj\Debug\exercicio1.pdb

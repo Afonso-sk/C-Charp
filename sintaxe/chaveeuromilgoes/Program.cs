@@ -24,7 +24,7 @@ namespace chaveeuromilgoes
                 while (numeros > 0)
                 {
 
-                    Console.Write($"{aleatorio.Next(1, 50)} ");
+                    Console.Write($"{aleatorio.Next(1, 50)}  ");
                     numeros--;
                 }
                 Console.Write(" - ");

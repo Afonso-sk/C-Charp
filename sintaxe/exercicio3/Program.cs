@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Escreva um programa para escrever letra por letra a frase que for idigigtada na tel
+
 namespace exercicio3
 {
     class Program
@@ -17,7 +19,7 @@ namespace exercicio3
 
             for (int i = 0; i < frase.Length; i++)
             {
-                Console.WriteLine($"{frase.Substring(i, 1)}");
+                Console.Write($"{frase.Substring(i, 1)}  ");
             }
             Console.ReadKey();
         }
