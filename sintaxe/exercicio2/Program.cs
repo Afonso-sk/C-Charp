@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 /*Escreva um programa que para escrver o primeiro e ultimo nome e ele exibir na tela 
  o primeiro e o ultimo nome*/
 namespace exercicio2
-
+{ 
    
     class Program
     {

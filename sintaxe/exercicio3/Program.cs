@@ -21,6 +21,7 @@ namespace exercicio3
             {
                 Console.Write($"{frase.Substring(i, 1)}  ");
             }
+
             Console.ReadKey();
         }
     }

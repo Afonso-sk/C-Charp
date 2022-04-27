@@ -6,3 +6,10 @@ C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\bin\Debug\chaveeuromilgoes.exe
 C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\bin\Debug\chaveeuromilgoes.pdb
 C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\chaveeuromilgoes.exe
 C:\C-SharpSK\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\chaveeuromilgoes.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\chaveeuromilgoes\bin\Debug\chaveeuromilgoes.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\chaveeuromilgoes\bin\Debug\chaveeuromilgoes.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\chaveeuromilgoes\bin\Debug\chaveeuromilgoes.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\5.5-chaveeuromilgoes_estr. repetcao.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\5.5-chaveeuromilgoes_estr. repetcao.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\chaveeuromilgoes.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\chaveeuromilgoes\obj\Debug\chaveeuromilgoes.pdb
