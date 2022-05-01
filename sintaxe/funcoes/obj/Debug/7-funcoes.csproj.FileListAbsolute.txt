@@ -1,0 +1,8 @@
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\funcoes\obj\Debug\7-funcoes.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\funcoes\obj\Debug\7-funcoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\funcoes\obj\Debug\7-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\funcoes\bin\Debug\funcoes.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\funcoes\bin\Debug\funcoes.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\funcoes\bin\Debug\funcoes.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\funcoes\obj\Debug\funcoes.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\funcoes\obj\Debug\funcoes.pdb
