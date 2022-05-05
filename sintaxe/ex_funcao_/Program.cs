@@ -10,12 +10,11 @@ namespace ex_funcao_
     {
         static void Main(string[] args)
         {
-            string nome_formando, apelido_formando;
+            string nome_formando, apelido_formando;   
             int idade_formando;
 
             Console.WriteLine("Qual é o nome do formando ?");
             nome_formando = Console.ReadLine();
-
 
             Console.WriteLine("Qual é o apelido do formando ?");
             apelido_formando = Console.ReadLine();

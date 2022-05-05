@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\funcoes\bin\Debug\funcoes.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\funcoes\bin\Debug\funcoes.exe
+C:\C-SharpSK\C-Charp\sintaxe\funcoes\bin\Debug\funcoes.pdb
+C:\C-SharpSK\C-Charp\sintaxe\funcoes\obj\Debug\7.0-funcoes.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\funcoes\obj\Debug\7.0-funcoes.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\funcoes\obj\Debug\7.0-funcoes.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\funcoes\obj\Debug\funcoes.exe
+C:\C-SharpSK\C-Charp\sintaxe\funcoes\obj\Debug\funcoes.pdb

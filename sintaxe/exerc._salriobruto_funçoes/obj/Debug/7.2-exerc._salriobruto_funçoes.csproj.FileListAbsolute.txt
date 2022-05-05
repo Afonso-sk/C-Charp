@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\exerc._salriobruto_funçoes\bin\Debug\exerc._salriobruto_funçoes.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\exerc._salriobruto_funçoes\bin\Debug\exerc._salriobruto_funçoes.exe
+C:\C-SharpSK\C-Charp\sintaxe\exerc._salriobruto_funçoes\bin\Debug\exerc._salriobruto_funçoes.pdb
+C:\C-SharpSK\C-Charp\sintaxe\exerc._salriobruto_funçoes\obj\Debug\7.2-exerc._salriobruto_funçoes.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\exerc._salriobruto_funçoes\obj\Debug\7.2-exerc._salriobruto_funçoes.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\exerc._salriobruto_funçoes\obj\Debug\7.2-exerc._salriobruto_funçoes.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\exerc._salriobruto_funçoes\obj\Debug\exerc._salriobruto_funçoes.exe
+C:\C-SharpSK\C-Charp\sintaxe\exerc._salriobruto_funçoes\obj\Debug\exerc._salriobruto_funçoes.pdb

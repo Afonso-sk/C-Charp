@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.0-funcoes", "funcoes\7.0-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.1-ex_funcao_", "ex_funcao_\7.1-ex_funcao_.csproj", "{C5ED51E2-2596-477B-8EEF-19AA439B2AD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2-exerc._salriobruto_funçoes", "exerc._salriobruto_funçoes\7.2-exerc._salriobruto_funçoes.csproj", "{849B9B4A-FA7F-4141-8B6B-C34588B828C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{C5ED51E2-2596-477B-8EEF-19AA439B2AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5ED51E2-2596-477B-8EEF-19AA439B2AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5ED51E2-2596-477B-8EEF-19AA439B2AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849B9B4A-FA7F-4141-8B6B-C34588B828C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849B9B4A-FA7F-4141-8B6B-C34588B828C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849B9B4A-FA7F-4141-8B6B-C34588B828C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849B9B4A-FA7F-4141-8B6B-C34588B828C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
