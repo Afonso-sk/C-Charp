@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\arrays\bin\Debug\arrays.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\arrays\bin\Debug\arrays.exe
+C:\C-SharpSK\C-Charp\sintaxe\arrays\bin\Debug\arrays.pdb
+C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\8.0-arrays.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\8.0-arrays.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\8.0-arrays.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\arrays.exe
+C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\arrays.pdb
