@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\exe2arrarys\bin\Debug\exe2arrarys.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\exe2arrarys\bin\Debug\exe2arrarys.exe
+C:\C-SharpSK\C-Charp\sintaxe\exe2arrarys\bin\Debug\exe2arrarys.pdb
+C:\C-SharpSK\C-Charp\sintaxe\exe2arrarys\obj\Debug\8.2-exe2arrarys.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\exe2arrarys\obj\Debug\8.2-exe2arrarys.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\exe2arrarys\obj\Debug\8.2-exe2arrarys.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\exe2arrarys\obj\Debug\exe2arrarys.exe
+C:\C-SharpSK\C-Charp\sintaxe\exe2arrarys\obj\Debug\exe2arrarys.pdb
