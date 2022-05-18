@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1-arrays_ex1", "arrays_ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2-exe2arrarys", "exe2arrarys\8.2-exe2arrarys.csproj", "{9DF18276-50AA-4ADD-850C-F1BF40BC6CBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poo", "poo\poo.csproj", "{D0FCB5DA-73E1-4CD4-89D7-0373765F032A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{9DF18276-50AA-4ADD-850C-F1BF40BC6CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DF18276-50AA-4ADD-850C-F1BF40BC6CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DF18276-50AA-4ADD-850C-F1BF40BC6CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FCB5DA-73E1-4CD4-89D7-0373765F032A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FCB5DA-73E1-4CD4-89D7-0373765F032A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FCB5DA-73E1-4CD4-89D7-0373765F032A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FCB5DA-73E1-4CD4-89D7-0373765F032A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
