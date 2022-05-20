@@ -1,0 +1,8 @@
+C:\C-SharpSK\C-Charp\sintaxe\OOP\bin\Debug\OOP.exe.config
+C:\C-SharpSK\C-Charp\sintaxe\OOP\bin\Debug\OOP.exe
+C:\C-SharpSK\C-Charp\sintaxe\OOP\bin\Debug\OOP.pdb
+C:\C-SharpSK\C-Charp\sintaxe\OOP\obj\Debug\9-OOP.csproj.AssemblyReference.cache
+C:\C-SharpSK\C-Charp\sintaxe\OOP\obj\Debug\9-OOP.csproj.SuggestedBindingRedirects.cache
+C:\C-SharpSK\C-Charp\sintaxe\OOP\obj\Debug\9-OOP.csproj.CoreCompileInputs.cache
+C:\C-SharpSK\C-Charp\sintaxe\OOP\obj\Debug\OOP.exe
+C:\C-SharpSK\C-Charp\sintaxe\OOP\obj\Debug\OOP.pdb
