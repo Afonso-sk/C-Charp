@@ -13,7 +13,7 @@ namespace operadores
 
             // = Atribuição
             // i++ Incremento
-            // i -- Decrenebto
+            // i -- Decremento
             // < Menor que
             // > Maior que
             // <= Menor que igual a

@@ -37,7 +37,7 @@ namespace estrutura_decisao
             Console.WriteLine(" Digite o seu número");
             num = Convert.ToInt32(Console.ReadLine());
 
-            if(num % 2 == 0) //
+            if(num % 2 == 0) //  se o numero digidado divido por dois der o resto zero é par, se não é impar1
 
             {
                 Console.WriteLine($"{num} é um número par !!!");
