@@ -17,6 +17,7 @@ namespace sintaxe // namespace: é usada para organoizar o nosso código.
              Console.ReadKey() o texto que imprime na tela some muito Rápido.*/
             Console.WriteLine("Olá, chamo-me Sako Afonso Miezi Vuna ! ");
             Console.WriteLine("3 + 3");
+
             Console.ReadKey();
             
            

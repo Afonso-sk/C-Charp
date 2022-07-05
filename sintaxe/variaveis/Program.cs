@@ -14,7 +14,7 @@ namespace variaveis
     {
         static void Main(string[] args) // o método Main, é a função principal. assim que executar App, vai aparecer o que está dentro do Main.
         {
-            //Para declarar uma variavel, devemos especificar o Tipo e atribuir um valor.
+            //Para declarar uma variavel, devemos especificar o Tipo e atribuir um valor a ela.
             /* SINTAXE: type variableName = value ( tipo nomeVariavel = valor)
              * Onde type é um tipo C# (como int string), e variableName é o nome da variável (como x ou name ).
 

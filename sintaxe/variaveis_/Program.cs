@@ -20,7 +20,7 @@ namespace variaveis_
         {
             string name;
             string city;
-            sbyte age;
+            int age;
             int pin;
 
             // \n é usado para quebra de linha
@@ -31,7 +31,7 @@ namespace variaveis_
             city = Console.ReadLine();
 
             Console.WriteLine("Escreva a sua idade \n");
-            age = sbyte.Parse(Console.ReadLine());
+            age = int.Parse(Console.ReadLine()); // Aqui poderia ser convert toInt32 dá no mesmo
 
             Console.WriteLine("Escreva a sua senha \n");
             pin = Int32.Parse(Console.ReadLine());
@@ -44,7 +44,7 @@ namespace variaveis_
             Console.WriteLine("============\n");
 
             Console.WriteLine($"Nome = {name}");
-            Console.WriteLine($"Ciidade = {city}");
+            Console.WriteLine($"Cidade = {city}");
             Console.WriteLine($"Idade = {age} anos");
             Console.WriteLine($"Senha = {pin}");
             Console.WriteLine("===============");
