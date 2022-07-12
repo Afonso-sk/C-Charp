@@ -6,3 +6,10 @@ C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\8.0-arrays.csproj.SuggestedBinding
 C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\8.0-arrays.csproj.CoreCompileInputs.cache
 C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\arrays.exe
 C:\C-SharpSK\C-Charp\sintaxe\arrays\obj\Debug\arrays.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\arrays\bin\Debug\arrays.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\arrays\bin\Debug\arrays.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\arrays\bin\Debug\arrays.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\arrays\obj\Debug\8.0-arrays.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\arrays\obj\Debug\8.0-arrays.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\arrays\obj\Debug\arrays.exe
+C:\Users\afons\OneDrive\Área de Trabalho\C-Charp\sintaxe\arrays\obj\Debug\arrays.pdb

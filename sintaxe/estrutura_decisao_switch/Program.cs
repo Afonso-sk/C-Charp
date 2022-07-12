@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //switch : instrução para selecionar um dos muitos blocos de código a serem executados.
-/*break: Sai do bloco switch(interromperá a execução e teste de case dentro do bloco)
+/*break: Sai do bloco switch(interromperá a execução e testa de case dentro do bloco)
  Quando uma correspondência é encontrada e o trabalho está concluído, é hora de uma pausa. Não há necessidade de mais
 testes.
  */
